@@ -78,10 +78,13 @@
 🔹 عدالت در توزیع کار
 🔹 کاهش خطاهای انسانی
 🔹 افزایش رضایت پرسنل و مدیران
+
 <img src="https://github.com/hnadi14/shiftX/blob/main/photo_5949546075067107897_x.jpg" width="300" alt="توضیح تصویر">
 
 <img src="https://github.com/hnadi14/shiftX/blob/main/Gemini_Generated_Image_4pkk824pkk824pkk.png" width="300" alt="توضیح تصویر">
 
 <img src="https://github.com/hnadi14/shiftX/blob/main/Gemini_Generated_Image_b9wcryb9wcryb9wc.png" width="300" alt="توضیح تصویر">
+
+<img src="https://github.com/hnadi14/shiftX/blob/main/photo_5951605572015082236_x.jpg" width="300" alt="توضیح تصویر">
 
 <img src="https://github.com/hnadi14/shiftX/blob/main/photo_5949525484993890835_w.jpg" width="300" alt="توضیح تصویر">
