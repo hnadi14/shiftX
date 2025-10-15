@@ -85,6 +85,6 @@
 
 <img src="https://github.com/hnadi14/shiftX/blob/main/Gemini_Generated_Image_b9wcryb9wcryb9wc.png" width="300" alt="توضیح تصویر">
 
-<img src="https://github.com/hnadi14/shiftX/blob/main/photo_5951605572015082236_x.jpg" width="300" alt="توضیح تصویر">
+<img src="https://github.com/hnadi14/shiftX/blob/main/photo_5949525484993890836_w.jpg" width="300" alt="توضیح تصویر">
 
 <img src="https://github.com/hnadi14/shiftX/blob/main/photo_5949525484993890835_w.jpg" width="300" alt="توضیح تصویر">
